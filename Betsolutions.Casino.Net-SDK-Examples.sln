@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betsolutions.Casino.Net-SDK-Examples", "Betsolutions.Casino.Net-SDK-Examples\Betsolutions.Casino.Net-SDK-Examples.csproj", "{DF258F61-A5CA-4431-8E5A-BFF2C46786B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF258F61-A5CA-4431-8E5A-BFF2C46786B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF258F61-A5CA-4431-8E5A-BFF2C46786B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF258F61-A5CA-4431-8E5A-BFF2C46786B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF258F61-A5CA-4431-8E5A-BFF2C46786B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5B2CFD-F53D-4CAF-B32B-EBF2EB988B3F}
+	EndGlobalSection
+EndGlobal
